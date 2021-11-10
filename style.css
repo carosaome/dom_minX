@@ -1,0 +1,23 @@
+#main
+{
+    width: 150px;
+    height: 250px;
+    background-color: gray;
+}
+#main{
+    display: flex;
+}
+.list-products
+{
+    display: flex;
+}
+#main  .product a  img
+{
+    max-width: 100%;
+}
+
+#main  a 
+{
+    text-decoration: none;
+    text-align: center;
+}
